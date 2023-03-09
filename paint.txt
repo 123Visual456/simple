@@ -6,3 +6,5 @@ welcome to Visual painting course
 brush
 paint
 pallete
+
+water and bowl
